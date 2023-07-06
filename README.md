@@ -1,14 +1,13 @@
-#  :sun_behind_rain_cloud: Aplicativo ClimaTempo
+#  :sun_behind_rain_cloud: Aplicacion del Clima
 
-## [DEMO](https://quantumsystem.github.io/weather-app/)
 
-Ative a localização para funcionar corretamente ou busque o clima digitando o nome da cidade.
+Active la localizacion para  que funcione corretamente o escriba el nombre de su ciudad.
 
-Projeto em React
+Proyeto en React
 
 ### Api utilizada [openweathermap](https://openweathermap.org/)
 
-### Instalação
-- `npm install`
-### Para rodar
+### Instalacion.
+- `npm i`
+### Para correr la aplicacion.
 - `npm start`
